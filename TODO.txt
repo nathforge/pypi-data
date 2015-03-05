@@ -1,0 +1,4 @@
+* Python 3 compatibility.
+* Setup tox
+* Setup Travis CI
+* Unit tests for FileSystemData (need to mock the FS)
